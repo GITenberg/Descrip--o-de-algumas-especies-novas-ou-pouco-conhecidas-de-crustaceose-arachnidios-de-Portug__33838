@@ -1,0 +1,33 @@
+_repo: Descrip--o-de-algumas-especies-novas-ou-pouco-conhecidas-de-crustaceose-arachnidios-de-Portug__33838
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Capello, Felix Antonio de Brito
+    birthdate: 1828
+    deathdate: 1879
+    gutenberg_agent_id: '36686'
+    url: http://www.gutenberg.org/2009/agents/36686
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2010-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33838'
+  lccn: '11009429'
+language:
+- pt
+- fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arachnida -- Angola'
+- !lcsh 'Crustacea -- Portugal'
+- !lcsh 'Crustacea -- Angola'
+- !lcc 'QL'
+title: "Descripção de algumas especies novas ou pouco conhecidas de crustaceos\r\n\
+  e arachnidios de Portugal e possessões portuguezas do ultramar"
+url: http://www.gutenberg.org/ebooks/33838
